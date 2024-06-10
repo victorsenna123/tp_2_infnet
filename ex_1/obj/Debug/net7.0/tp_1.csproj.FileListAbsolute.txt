@@ -1,0 +1,14 @@
+C:\projects\c#\tp_2\ex_1\bin\Debug\net7.0\tp_1.exe
+C:\projects\c#\tp_2\ex_1\bin\Debug\net7.0\tp_1.deps.json
+C:\projects\c#\tp_2\ex_1\bin\Debug\net7.0\tp_1.runtimeconfig.json
+C:\projects\c#\tp_2\ex_1\bin\Debug\net7.0\tp_1.dll
+C:\projects\c#\tp_2\ex_1\bin\Debug\net7.0\tp_1.pdb
+C:\projects\c#\tp_2\ex_1\obj\Debug\net7.0\tp_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\c#\tp_2\ex_1\obj\Debug\net7.0\tp_1.AssemblyInfoInputs.cache
+C:\projects\c#\tp_2\ex_1\obj\Debug\net7.0\tp_1.AssemblyInfo.cs
+C:\projects\c#\tp_2\ex_1\obj\Debug\net7.0\tp_1.csproj.CoreCompileInputs.cache
+C:\projects\c#\tp_2\ex_1\obj\Debug\net7.0\tp_1.dll
+C:\projects\c#\tp_2\ex_1\obj\Debug\net7.0\refint\tp_1.dll
+C:\projects\c#\tp_2\ex_1\obj\Debug\net7.0\tp_1.pdb
+C:\projects\c#\tp_2\ex_1\obj\Debug\net7.0\tp_1.genruntimeconfig.cache
+C:\projects\c#\tp_2\ex_1\obj\Debug\net7.0\ref\tp_1.dll
